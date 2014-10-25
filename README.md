@@ -21,10 +21,10 @@ There are three sample .bat files included.
 
 #### jbcert.bat
 
-1) Run jbcert.bat while running as administrator
-2) A mmc with the Local Machine and Current-User Certificate snap-ins will load
-3) All certificates are now marked as exportable
-4) Use the certificate UI to export certificates and their private keys. 
+1. Run jbcert.bat while running as administrator
+2. A mmc with the Local Machine and Current-User Certificate snap-ins will load
+3. All certificates are now marked as exportable
+4. Use the certificate UI to export certificates and their private keys. 
 
 
 #### jbcsp.bat
@@ -32,7 +32,8 @@ There are three sample .bat files included.
 jbcsp exports keys that are contained within the CSP and not associated with a certificate.
 jbscp requires .NET Framework 2.0.
 
-Run: jbscp.bat "Key container" "output file name" [-u]
+Run: 
+`jbscp.bat "Key container" "output file name" [-u]`
 
 -u is an optional parameter and will export from the user store instead of the 
 machine store.
@@ -46,11 +47,11 @@ JBStore can be set to export from either the CURRENT_USER\MY store or the
 LOCAL_MACHINE\MY store.  The default is CURRENT_USER\MY.
 
 To export from the LOCAL_MACHINE\MY store:
-jbstore.bat -a -o <outfile> -p <password>
+`jbstore.bat -a -o <outfile> -p <password>`
 
 To export from the CURRENT_USER\MY store:
 
-jbstore.bat -s "USER" -o <outfile> -p <password>
+`jbstore.bat -s "USER" -o <outfile> -p <password>`
 
 ### Acknowledgements
 
