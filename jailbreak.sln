@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jailbreak", "jailbreak\jailbreak.vcxproj", "{485DE09A-E290-4254-9009-B6211D27B407}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jailbreakhook", "jailbreakhook\jailbreakhook.vcxproj", "{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jbstore2", "jbstore2\jbstore2.vcxproj", "{B1381661-4744-4AB5-86EE-0DBA959A4E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485DE09A-E290-4254-9009-B6211D27B407}.Debug|Win32.ActiveCfg = Debug|Win32
+		{485DE09A-E290-4254-9009-B6211D27B407}.Debug|Win32.Build.0 = Debug|Win32
+		{485DE09A-E290-4254-9009-B6211D27B407}.Debug|x64.ActiveCfg = Debug|x64
+		{485DE09A-E290-4254-9009-B6211D27B407}.Debug|x64.Build.0 = Debug|x64
+		{485DE09A-E290-4254-9009-B6211D27B407}.Release|Win32.ActiveCfg = Release|Win32
+		{485DE09A-E290-4254-9009-B6211D27B407}.Release|Win32.Build.0 = Release|Win32
+		{485DE09A-E290-4254-9009-B6211D27B407}.Release|x64.ActiveCfg = Release|x64
+		{485DE09A-E290-4254-9009-B6211D27B407}.Release|x64.Build.0 = Release|x64
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Debug|Win32.Build.0 = Debug|Win32
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Debug|x64.ActiveCfg = Debug|x64
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Debug|x64.Build.0 = Debug|x64
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Release|Win32.ActiveCfg = Release|Win32
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Release|Win32.Build.0 = Release|Win32
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Release|x64.ActiveCfg = Release|x64
+		{A5A415CE-635A-45B4-99E9-5B68CF99CEC4}.Release|x64.Build.0 = Release|x64
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Debug|Win32.Build.0 = Debug|Win32
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Debug|x64.ActiveCfg = Debug|x64
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Debug|x64.Build.0 = Debug|x64
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Release|Win32.ActiveCfg = Release|Win32
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Release|Win32.Build.0 = Release|Win32
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Release|x64.ActiveCfg = Release|x64
+		{B1381661-4744-4AB5-86EE-0DBA959A4E96}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
