@@ -60,4 +60,4 @@ Especially Andreas Klein for the jbcsp suggestions and Tom Aafloen for
 testing it on Vista x64.
 
 
-(c) 2007-2014 iSEC Partners (www.isecpartners.com)
+(c) 2007-2014 iSEC Partners (https://www.isecpartners.com)
