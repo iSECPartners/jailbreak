@@ -1,1 +1,1 @@
-@jailbreak32.exe jbstore2.exe %*
+@jailbreak32.exe jbstore2_32.exe %*
