@@ -12,5 +12,7 @@
 #include <windows.h>
 #include <wincrypt.h>
 #include <stdio.h>
+#include <tchar.h>
+#include "Strsafe.h"
 #include "easyhook.h"
 #include "jailbreakhook.h"
